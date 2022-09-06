@@ -16,6 +16,8 @@ HTML, TAILWIND
 
 ## Demo | Netlify
 
+https://shopify-wesite.netlify.app/
+
 ## Features
 
 - Mobile resposnsive
